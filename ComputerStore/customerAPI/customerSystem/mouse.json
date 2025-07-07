@@ -1,0 +1,56 @@
+[
+    {
+        "SerialNumber": "123456",
+        "Brand": "Logitech",
+        "Model": "L5kksQtW25",
+        "Color": "Red",
+        "Type": "Normal",
+        "ItIsNew": "Yes",
+        "Price": 7.99
+    },
+    {
+        "SerialNumber": "123456",
+        "Brand": "LG",
+        "Model": "L5kksQtW25",
+        "Color": "Red",
+        "Type": "Inalambric",
+        "ItIsNew": "Yes",
+        "Price": 6.99
+    },
+    {
+        "SerialNumber": "123456",
+        "Brand": "HP",
+        "Model": "L5kksQtW25",
+        "Color": "Red",
+        "Type": "Normal",
+        "ItIsNew": "Yes",
+        "Price": 7.99
+    },
+    {
+        "SerialNumber": "123456",
+        "Brand": "DIKTO",
+        "Model": "L5kksQtW25",
+        "Color": "Red",
+        "Type": "Normal",
+        "ItIsNew": "Yes",
+        "Price": 8.99
+    },
+    {
+        "SerialNumber": "123456",
+        "Brand": "MICROSOFT",
+        "Model": "L5kksQtW25",
+        "Color": "Red",
+        "Type": "Normal",
+        "ItIsNew": "Yes",
+        "Price": 10.99
+    },
+    {
+        "SerialNumber": "123456",
+        "Brand": "Logitech",
+        "Model": "L5kksQtW25",
+        "Color": "Red",
+        "Type": "Normal",
+        "ItIsNew": "Yes",
+        "Price": 4.99
+    }
+]
